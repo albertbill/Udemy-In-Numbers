@@ -1,6 +1,6 @@
 ![alt text](img/udemy.png)
 
-# Udemy in Number
+# Udemy in Numbers
 It contains data visualization and data analysis about Udemy Online Courses.
 
 ### [View visualization using Tableau]()
