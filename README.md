@@ -1,4 +1,4 @@
-![alt text](img/udemy1.png)
+
 
 # Indonesia JavaScript 2019 in Number
 It contains data visualization and data analysis about JavaScript's Ecosystem in Indonesia.
