@@ -1,7 +1,7 @@
 ![alt text](img/udemy.png)
 
 # Udemy in Numbers
-It contains data visualization and data analysis about Udemy Online Courses.
+It contains data analysis and data visualization about Udemy Online Courses.
 
 ### [View visualization using Tableau](https://public.tableau.com/profile/albert.bill.alroy#!/vizhome/UdemyOnlineCoursesinNumbers/Dashboard1)
 
